@@ -1,0 +1,7 @@
+MICRO_BOT	KEYWORD1
+init_start	KEYWORD2
+board	KEYWORD2
+run	KEYWORD2
+stuck	KEYWORD2
+ping	KEYWORD2
+bt_cont	KEYWORD2
